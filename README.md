@@ -1,6 +1,6 @@
-Speechly Dashboard - https://api.speechly.com/dashboard/
-Context API
-Local Storage
+Speechly Dashboard - https://api.speechly.com/dashboard/ \
+Context API \
+Local Storage \
 Material UI
 
 ## Setup
